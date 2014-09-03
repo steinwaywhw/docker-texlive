@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM FROM phusion/baseimage:latest
 MAINTAINER Steinway Wu "http://steinwaywu.com/"
 
 RUN apt-get update
