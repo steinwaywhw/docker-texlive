@@ -1,4 +1,4 @@
-FROM FROM phusion/baseimage:latest
+FROM phusion/baseimage:latest
 MAINTAINER Steinway Wu "http://steinwaywu.com/"
 
 RUN apt-get update
